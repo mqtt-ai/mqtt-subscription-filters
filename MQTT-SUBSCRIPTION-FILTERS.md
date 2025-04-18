@@ -22,11 +22,11 @@ A subscription filter is appended to the topic filter using a question mark (?) 
 
 Where:
 
-- <topic-filter>: A standard MQTT topic filter (e.g., sensor/+/temperature, home/#).
+- \<topic-filter>: A standard MQTT topic filter (e.g., sensor/+/temperature, home/#).
 
 - ?: Delimiter separating the topic filter and filter expression.
 
-- <filter-expression>: A string representing the filter criteria.
+- \<filter-expression>: A string representing the filter criteria.
 
 ## Filter Expression
 
